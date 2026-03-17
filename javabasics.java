@@ -114,4 +114,67 @@
 //                                                       if else statementf
 
 
+// public class javabasics {
+//     public static void main(String[] args) {
+//         int age = 19;
+
+//         if(age>=18){
+//             System.out.println("You are eligible to vote");
+//         }
+//         else{
+//             System.out.println("You are not eligible to vote");
+//         }
+
+//         // if else statement is used to check the condition and execute the code accordingly
+//     }
+// }
+
+// public class javabasics {
+//     public static void main(String[] args) {
+//         int age = 17;
+
+//         if(age>=18){
+//             System.out.println("You are eligible to vote");
+//         }
+//         else{
+//             System.out.println("You are not eligible to vote");
+//         }
+
+//         // if else statement is used to check the condition and execute the code accordingly
+//     }
+// }
+
+
+
+
+
+
+
+
+
+//                                             lecture 5
+//                                                       nested if else and switch case 
+
+
+// public class javabasics {
+//     public static void main(String[] args) {
+
+//         // nested if else statement
+
+//         int num=8;
+
+//         if(num>6){
+//             System.out.println("bid number");
+
+//         }
+
+//         else if(num<6){
+//             System.out.println("small number");
+//         }
+       
+// }
+
+
+
+
 
